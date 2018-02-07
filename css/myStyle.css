@@ -1,0 +1,9 @@
+.fk{
+	width: 100px;
+	height: 100px;
+	position: absolute;
+	background-color: #f00;
+}
+.mytext{
+	z-index: 999;
+}
